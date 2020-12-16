@@ -1,0 +1,102 @@
+HTML5
+
+## Títulos ##
+<h1>Título</h1>
+ou h2,h3,h4,h5,h6
+
+=========================
+## Paragrafos ##
+<p>Texto</p>
+
+========================
+## Negrito (Destaque para algumas informações do texto) ##
+<strong>Frase a ser destacada</strong>
+
+========================
+## Itálico - deixar uma palavra ou texto em itálico ##
+<em>Frase em itálico</em>
+
+========================
+## <!DOCTYPE html> ##
+Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando
+
+========================================================================
+## <head>
+	   informações
+   </head> ##
+Como separar as informações que estão sendo passadas para o navegador, utilizando a tag <head>
+
+================================================================================================
+## <body>
+	  conteúdo
+   </body> ##
+Separar o conteúdo da página, utilizando a tag <body>
+
+================================================================================================
+## Importar um arquivo CSS externo (no href informar o caminho até o arquivo CSS##
+<link rel="stylesheet" href="style.css">
+
+================================================================================================
+## Mexer na apresentação dos textos ##
+	No alinhamento deles (text-align)
+	No tamanho da fonte (font-size)
+	Na cor de fundo (background)
+	Na cor do texto (color)
+
+========================================================================
+## CSS inline ##
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+
+========================================================================
+## Como representar cores no CSS ##
+	Através do nome da cor
+	Através do seu hexadecimal
+	Através do seu RGB
+
+================================================
+## Tabela Unicode ##
+https://unicode-table.com/pt/
+
+================================================
+## Adicionar imagem no CSS ##
+footer{
+	text-align: center;
+	background: url("bg.jpg");   <------
+	padding: 40px 0;
+}
+
+================================================================================================
+## Novos input's HTML5 para celular##
+http://mobileinputtypes.com/    <-- este site contém todos os novos input type=""
+
+<input type="email">   <--- facilita no mobile o teclado ao digitar no campo email
+<input type="tel"> <-- facilita no mobile, troca o teclado para numérico
+
+================================================================================================
+## <table> ##
+A criar uma tabela HTML
+	A tag table, que representa a tabela
+	A tag tr, que representa a linha da tabela
+	A tag td, que representa a célula da tabela
+	A tag thead, que representa o cabeçalho da tabela
+	A tag tbody, que representa o corpo da tabela
+	A tag th, que representa a célula do cabeçalho da tabela
+	A tag tfoot, que representa o rodapé da tabela
+
+================================================================================================
+## float CSS ##
+Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+
+Como limpar o float, com a propriedade clear do CSS
+--> clear: left; (ou top, ou botton, ou right)
+================================================================================================
+
+## Fontes Externas ##
+
+https://fonts.google.com/
+
+
+
+
+
+================================================================================================
