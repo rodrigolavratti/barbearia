@@ -11,7 +11,7 @@ header{
 	margin: 0 auto;
 }
 nav{
-	position: absolute;
+	position: absolute; /*Posicionamento absolut -> consigo posicionar meu elemento em qualquer lugar da página*/
 	top: 110px;
 	right: 0;
 }
@@ -36,10 +36,10 @@ nav a:hover{
 	padding: 50px 0;
 }
 .produtos li{
-	display: inline-block;
+	display: inline-block; /*Organiza os itens em linha(um ao lado do outro)*/
 	text-align: center;
 	width: 30%;
-	vertical-align: top;
+	vertical-align: top; /*alinha os itens do inline-block pela linha de cima*/
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box; /*utilizado junto com o padding acima para posicionar corretamente os valores*/
