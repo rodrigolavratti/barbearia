@@ -106,8 +106,8 @@ form label, form legend{
 	margin: 20px 0;
 }
 .enviar{
-	width: 40%;
-	padding: 15px 0;
+	width: 40%; /*Tamanho do botão*/
+	padding: 15px 0; /*espaçamento interno*/
 	background: orange;
 	color: white;
 	font-weight: bold;
